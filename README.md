@@ -27,7 +27,7 @@ Passionate about building innovative applications through software development, 
 ### 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,nextjs,nodejs,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,nextjs,nodejs,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -51,18 +51,21 @@ Passionate about building innovative applications through software development, 
 
 <p align="left">
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.icons8.com/color/48/domain.png" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/domain.png" width="40" height="40" style="margin-right: 15px;"/>
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sri-sravya-narravula">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://github.com/narravulasrisravya">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/your-username/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40"/>
+  </a>
 </p>
-
 
 ---
 
