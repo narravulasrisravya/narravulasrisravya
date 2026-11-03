@@ -53,9 +53,11 @@ Passionate about building innovative applications through software development, 
   <a href="https://your-portfolio-link.com">
     <img src="https://img.icons8.com/color/48/domain.png" width="40" height="40"/>
   </a>
+  
   <a href="https://linkedin.com/in/sri-sravya-narravula">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
   </a>
+  
   <a href="https://github.com/narravulasrisravya">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
   </a>
