@@ -50,9 +50,6 @@ Passionate about building innovative applications through software development, 
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.icons8.com/color/48/domain.png" width="40" height="40" style="margin-right: 15px;"/>
-  </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sri-sravya-narravula">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
