@@ -9,8 +9,6 @@
 Passionate about building innovative applications through software development, web technologies, and Artificial Intelligence.
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=narravulasrisravya&label=PROFILE+VIEWS&color=blueviolet&style=flat)
-
 </div>
 
 - 🎓 B.Tech Computer Science and Technology Student at Mohan Babu University
