@@ -42,56 +42,6 @@ I'm a Computer Science student passionate about web development, Artificial Inte
 
 ---
 
-## 💼 Experience
-
-**AI & Machine Learning Intern – CODTECH IT Solutions (2026)**
-
-- Learned and applied AI and Machine Learning concepts.
-- Worked on data preprocessing and building machine learning models.
-- Evaluated model performance using real-world datasets.
-
----
-
-## 🚀 My Projects
-
-### 🍕 Pizza Hut – Full-Stack Online Food Ordering Platform
-**Technologies:** Next.js, JavaScript, MongoDB, Tailwind CSS
-
-- Built an online food ordering platform where customers can browse menus, customize pizzas, add items to cart, place orders, and pay securely online.
-- Developed an admin dashboard to manage menu items, customers, orders, and sales reports.
-
-### 🧠 Aptitude Arcade – Aptitude Practice Platform
-**Technologies:** JavaScript, Tailwind CSS, Node.js
-
-- Built an interactive aptitude practice platform with categorized practice tests and timed quizzes.
-- Added performance tracking and analysis to help students monitor their progress.
-
----
-
-## 📜 Certifications
-
-- CODTECH IT Solutions Internship.
-- ServiceNow Certification.
-- Infosys Springboard – HTML5 and JavaScript Essentials.
-
----
-
-## 🎓 Education
-
-**Mohan Babu University**
-- B.Tech – Computer Science and Technology.
-- 2023 – 2027.
-- CGPA: 7.92.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narravulasrisravya&show_icons=true&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=narravulasrisravya&theme=radical)
 
 ## 💻 Most Used Languages
 
