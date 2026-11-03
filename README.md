@@ -12,6 +12,8 @@ Passionate about building innovative applications through software development, 
 </div>
 
 
+
+
 - 🎓 B.Tech Computer Science and Technology Student at Mohan Babu University
 - 💻 Skilled in Java, SQL, JavaScript, HTML, CSS, Next.js, Node.js, MongoDB, MySQL, and Tailwind CSS
 - 💼 AI & Machine Learning Intern at CODTECH IT Solutions
@@ -48,16 +50,17 @@ Passionate about building innovative applications through software development, 
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/narravulasrisravya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sri-sravya-narravula">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:narravulasravya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.icons8.com/color/48/domain.png" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/sri-sravya-narravula">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/narravulasrisravya">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
