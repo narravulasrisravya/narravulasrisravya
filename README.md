@@ -11,14 +11,14 @@ Passionate about building innovative applications through software development, 
 
 </div>
 
-🎓 B.Tech Computer Science and Technology Student at Mohan Babu University
-💻 Skilled in Java, SQL, JavaScript, HTML, CSS, Next.js, Node.js, MongoDB, MySQL, and Tailwind CSS
-💼 AI & Machine Learning Intern at CODTECH IT Solutions
-🌱 Currently improving my programming and software development skills
-🚀 Interested in Full Stack Development, AI/ML, and Software Engineering
-🏆 Interested in building innovative real-world projects
-📫 Reach me at: **narravulasravya@gmail.com**
-📄 Know about my experiences: [My Resume](YOUR_RESUME_LINK)
+-🎓 B.Tech Computer Science and Technology Student at Mohan Babu University
+-💻 Skilled in Java, SQL, JavaScript, HTML, CSS, Next.js, Node.js, MongoDB, MySQL, and Tailwind CSS
+-💼 AI & Machine Learning Intern at CODTECH IT Solutions
+-🌱 Currently improving my programming and software development skills
+-🚀 Interested in Full Stack Development, AI/ML, and Software Engineering
+-🏆 Interested in building innovative real-world projects
+-📫 Reach me at: **narravulasravya@gmail.com**
+-📄 Know about my experiences: [My Resume](YOUR_RESUME_LINK)
 
 ---
 
